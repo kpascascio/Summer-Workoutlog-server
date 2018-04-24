@@ -23,4 +23,3 @@ app.listen(process.env.PORT, function(){
 	console.log(`app is running on ${process.env.PORT}`);
 })
 
-//Challenge go to postman, create a new user, then login with that user
